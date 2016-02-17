@@ -1,0 +1,28 @@
+{
+  "name": "nodetest",
+  "version": "0.0.0",
+  "description": "Some NPM test",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeidavid/NodeTest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "David Alonso <dalonsor@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexeidavid/NodeTest/issues"
+  },
+  "homepage": "https://github.com/alexeidavid/NodeTest#readme"
+}
